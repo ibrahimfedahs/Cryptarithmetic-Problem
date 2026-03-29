@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name:IBRAHIM FEDAH S               </h3>
-<h3>Register Number/Staff Id:  212223240056     </h3>
+<h3>Name: ibrahim fedah s               </h3>
+<h3>Register Number/Staff Id:  21222340056     </h3>
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
